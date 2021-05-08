@@ -1,4 +1,4 @@
-aa = [5,6,8,'Hello',[7,9,'LU'],0.999]
+aa = [5,6,8,'Helo',[7,9,'LU'],0.999]
 
 print(aa) # izvadit visu sarakstu
 
